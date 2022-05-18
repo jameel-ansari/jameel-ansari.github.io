@@ -1,3 +1,5 @@
 # Jameel Ansari Photography Portfolio
 
-A place for some of my work! 📷
+Hi I'm Jameel! 👋
+
+This is a simple portfolio for some of my work.
