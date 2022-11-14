@@ -36,10 +36,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #1FAD9F; }
+  color: #262626; }
   a:hover {
     text-decoration: none;
-    color: #1FAD9F; }
+    color: #262626; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5,
 }
 
 .text-primary {
-  color: #1FAD9F !important; }
+  color: #262626 !important; }
 
 .probootstrap-aside::-webkit-scrollbar{
   display: none;
@@ -594,6 +594,16 @@ textarea {
   -webkit-animation: loader-dash 1.5s ease-in-out infinite;
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round; }
+
+
+.button {
+  transition-duration: 0.4s;
+}
+  
+.button:hover {
+  background-color: #262626;
+  color: #ffffff;
+}
 
 @-webkit-keyframes loader-rotate {
   100% {
