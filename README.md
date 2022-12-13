@@ -2,4 +2,4 @@
 
 Hi I'm Jameel! 👋
 
-This is a simple portfolio for some of my work.
+This is a very simple portfolio hosting of my photography work: www.jameelansari.me
